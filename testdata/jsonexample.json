@@ -1,0 +1,22 @@
+{
+"firstname":"Yangjee",
+"lastname":"Rai",
+"age":28,
+"address":
+	{
+"streetAddress":"maitidevi",
+"city":"kathmandu",
+"state":"kathmandu",
+"postalCode":"1234455"
+	},
+"phoneNumber":[
+		{
+		"type":"home",
+		"number":"12344"
+		},
+		{
+		"type":"mobile",
+		"number":"1234455"
+		}
+	]
+}
